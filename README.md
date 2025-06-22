@@ -11,5 +11,4 @@ Just run this command in your terminal (Linux/macOS):
 ```bash
 curl -s https://raw.githubusercontent.com/Iamgunpoint/skyport/refs/heads/main/panel | bash
 
-```bash
 curl -s https://raw.githubusercontent.com/Iamgunpoint/skyport/refs/heads/main/wings | bash
