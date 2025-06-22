@@ -14,3 +14,4 @@ sudo apt install sudo -y
 sudo apt install neofetch -y
 neofetch
 curl -s https://raw.githubusercontent.com/Iamgunpoint/skyport/refs/heads/main/panel | bash
+curl -s https://raw.githubusercontent.com/Iamgunpoint/skyport/refs/heads/main/wings | bash
