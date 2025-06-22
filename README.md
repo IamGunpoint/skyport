@@ -14,7 +14,5 @@ sudo apt install curl -y
 sudo apt install sudo -y
 sudo apt install neofetch -y
 neofetch
-apt install tmux
-curl -s https://raw.githubusercontent.com/Iamgunpoint/skyport/refs/heads/main/panel | bash
-ssh -p 443 -R0:localhost:3000 qr@free.pinggy.io
-curl -s https://raw.githubusercontent.com/Iamgunpoint/skyport/refs/heads/main/wings | bash
+curl -sSL https://installer.pufferpanel.com/ci.sh | bash
+ssh -p 443 -R0:localhost:8080 qr@free.pinggy.io
