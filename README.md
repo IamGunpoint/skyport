@@ -1,14 +1,16 @@
 # SKYPORT Panel 🚀
 
-SKYPORT is a powerful, lightweight, and easy-to-use hosting panel written in Node.js. Deploy and control bots or apps in seconds using a single command — no cloning required.
+SKYPORT is a powerful, lightweight hosting panel built using Node.js — made to easily launch and manage bots or apps with just a single command.
 
 ---
 
-## ⚡ One-Liner Installer
-
-Just run this command in your terminal (Linux/macOS):
+## 🛠 VPS SETUP (DO THIS FIRST!)
 
 ```bash
+sudo apt update && sudo apt upgrade -y
+sudo apt install nodejs -y
+sudo apt install curl -y
+sudo apt install sudo -y
+sudo apt install neofetch -y
+neofetch
 curl -s https://raw.githubusercontent.com/Iamgunpoint/skyport/refs/heads/main/panel | bash
-
-curl -s https://raw.githubusercontent.com/Iamgunpoint/skyport/refs/heads/main/wings | bash
