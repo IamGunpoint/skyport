@@ -1,4 +1,4 @@
-# SKYPORT Panel 🚀
+# PufferPanel 🚀
 
 SKYPORT is a powerful, lightweight hosting panel built using Node.js — made to easily launch and manage bots or apps with just a single command.
 
